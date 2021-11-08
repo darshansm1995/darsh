@@ -6,3 +6,6 @@ cricket
 fifa
 nfs
 football
+basketball
+pool
+cult
